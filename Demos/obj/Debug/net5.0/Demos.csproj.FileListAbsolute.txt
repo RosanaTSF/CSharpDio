@@ -1,0 +1,16 @@
+C:\Users\rosan\Projetinho\Demos\bin\Debug\net5.0\Demos.exe
+C:\Users\rosan\Projetinho\Demos\bin\Debug\net5.0\Demos.deps.json
+C:\Users\rosan\Projetinho\Demos\bin\Debug\net5.0\Demos.runtimeconfig.json
+C:\Users\rosan\Projetinho\Demos\bin\Debug\net5.0\Demos.runtimeconfig.dev.json
+C:\Users\rosan\Projetinho\Demos\bin\Debug\net5.0\Demos.dll
+C:\Users\rosan\Projetinho\Demos\bin\Debug\net5.0\ref\Demos.dll
+C:\Users\rosan\Projetinho\Demos\bin\Debug\net5.0\Demos.pdb
+C:\Users\rosan\Projetinho\Demos\obj\Debug\net5.0\Demos.csproj.AssemblyReference.cache
+C:\Users\rosan\Projetinho\Demos\obj\Debug\net5.0\Demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosan\Projetinho\Demos\obj\Debug\net5.0\Demos.AssemblyInfoInputs.cache
+C:\Users\rosan\Projetinho\Demos\obj\Debug\net5.0\Demos.AssemblyInfo.cs
+C:\Users\rosan\Projetinho\Demos\obj\Debug\net5.0\Demos.csproj.CoreCompileInputs.cache
+C:\Users\rosan\Projetinho\Demos\obj\Debug\net5.0\Demos.dll
+C:\Users\rosan\Projetinho\Demos\obj\Debug\net5.0\ref\Demos.dll
+C:\Users\rosan\Projetinho\Demos\obj\Debug\net5.0\Demos.pdb
+C:\Users\rosan\Projetinho\Demos\obj\Debug\net5.0\Demos.genruntimeconfig.cache
