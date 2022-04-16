@@ -1,0 +1,16 @@
+C:\Users\rosan\Aula2Ref\bin\Debug\net5.0\Aula2Ref.exe
+C:\Users\rosan\Aula2Ref\bin\Debug\net5.0\Aula2Ref.deps.json
+C:\Users\rosan\Aula2Ref\bin\Debug\net5.0\Aula2Ref.runtimeconfig.json
+C:\Users\rosan\Aula2Ref\bin\Debug\net5.0\Aula2Ref.runtimeconfig.dev.json
+C:\Users\rosan\Aula2Ref\bin\Debug\net5.0\Aula2Ref.dll
+C:\Users\rosan\Aula2Ref\bin\Debug\net5.0\ref\Aula2Ref.dll
+C:\Users\rosan\Aula2Ref\bin\Debug\net5.0\Aula2Ref.pdb
+C:\Users\rosan\Aula2Ref\obj\Debug\net5.0\Aula2Ref.csproj.AssemblyReference.cache
+C:\Users\rosan\Aula2Ref\obj\Debug\net5.0\Aula2Ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosan\Aula2Ref\obj\Debug\net5.0\Aula2Ref.AssemblyInfoInputs.cache
+C:\Users\rosan\Aula2Ref\obj\Debug\net5.0\Aula2Ref.AssemblyInfo.cs
+C:\Users\rosan\Aula2Ref\obj\Debug\net5.0\Aula2Ref.csproj.CoreCompileInputs.cache
+C:\Users\rosan\Aula2Ref\obj\Debug\net5.0\Aula2Ref.dll
+C:\Users\rosan\Aula2Ref\obj\Debug\net5.0\ref\Aula2Ref.dll
+C:\Users\rosan\Aula2Ref\obj\Debug\net5.0\Aula2Ref.pdb
+C:\Users\rosan\Aula2Ref\obj\Debug\net5.0\Aula2Ref.genruntimeconfig.cache

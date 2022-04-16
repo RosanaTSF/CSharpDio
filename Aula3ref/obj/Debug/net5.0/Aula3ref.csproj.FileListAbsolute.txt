@@ -1,0 +1,16 @@
+C:\Users\rosan\Aula3ref\obj\Debug\net5.0\Aula3ref.csproj.AssemblyReference.cache
+C:\Users\rosan\Aula3ref\obj\Debug\net5.0\Aula3ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosan\Aula3ref\obj\Debug\net5.0\Aula3ref.AssemblyInfoInputs.cache
+C:\Users\rosan\Aula3ref\obj\Debug\net5.0\Aula3ref.AssemblyInfo.cs
+C:\Users\rosan\Aula3ref\obj\Debug\net5.0\Aula3ref.csproj.CoreCompileInputs.cache
+C:\Users\rosan\Aula3ref\bin\Debug\net5.0\Aula3ref.exe
+C:\Users\rosan\Aula3ref\bin\Debug\net5.0\Aula3ref.deps.json
+C:\Users\rosan\Aula3ref\bin\Debug\net5.0\Aula3ref.runtimeconfig.json
+C:\Users\rosan\Aula3ref\bin\Debug\net5.0\Aula3ref.runtimeconfig.dev.json
+C:\Users\rosan\Aula3ref\bin\Debug\net5.0\Aula3ref.dll
+C:\Users\rosan\Aula3ref\bin\Debug\net5.0\ref\Aula3ref.dll
+C:\Users\rosan\Aula3ref\bin\Debug\net5.0\Aula3ref.pdb
+C:\Users\rosan\Aula3ref\obj\Debug\net5.0\Aula3ref.dll
+C:\Users\rosan\Aula3ref\obj\Debug\net5.0\ref\Aula3ref.dll
+C:\Users\rosan\Aula3ref\obj\Debug\net5.0\Aula3ref.pdb
+C:\Users\rosan\Aula3ref\obj\Debug\net5.0\Aula3ref.genruntimeconfig.cache
