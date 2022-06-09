@@ -7,4 +7,8 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Aula2Ref
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\rosan\OneDrive\Área de Trabalho\Dio\CSharp\Aula2Ref\
+=======
+build_property.ProjectDir = c:\Users\rosan\Workspace\CSharpDio\Aula2Ref\
+>>>>>>> 74356ca56c21669c4d0e3c6b8f34ef49ec42030e
