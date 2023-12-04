@@ -1,0 +1,15 @@
+C:\Users\rosan\OneDrive\Área de Trabalho\Developer\Avanade.cs\bin\Debug\net8.0\Avanade.exe
+C:\Users\rosan\OneDrive\Área de Trabalho\Developer\Avanade.cs\bin\Debug\net8.0\Avanade.deps.json
+C:\Users\rosan\OneDrive\Área de Trabalho\Developer\Avanade.cs\bin\Debug\net8.0\Avanade.runtimeconfig.json
+C:\Users\rosan\OneDrive\Área de Trabalho\Developer\Avanade.cs\bin\Debug\net8.0\Avanade.dll
+C:\Users\rosan\OneDrive\Área de Trabalho\Developer\Avanade.cs\bin\Debug\net8.0\Avanade.pdb
+C:\Users\rosan\OneDrive\Área de Trabalho\Developer\Avanade.cs\obj\Debug\net8.0\Avanade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosan\OneDrive\Área de Trabalho\Developer\Avanade.cs\obj\Debug\net8.0\Avanade.AssemblyInfoInputs.cache
+C:\Users\rosan\OneDrive\Área de Trabalho\Developer\Avanade.cs\obj\Debug\net8.0\Avanade.AssemblyInfo.cs
+C:\Users\rosan\OneDrive\Área de Trabalho\Developer\Avanade.cs\obj\Debug\net8.0\Avanade.csproj.CoreCompileInputs.cache
+C:\Users\rosan\OneDrive\Área de Trabalho\Developer\Avanade.cs\obj\Debug\net8.0\Avanade.sourcelink.json
+C:\Users\rosan\OneDrive\Área de Trabalho\Developer\Avanade.cs\obj\Debug\net8.0\Avanade.dll
+C:\Users\rosan\OneDrive\Área de Trabalho\Developer\Avanade.cs\obj\Debug\net8.0\refint\Avanade.dll
+C:\Users\rosan\OneDrive\Área de Trabalho\Developer\Avanade.cs\obj\Debug\net8.0\Avanade.pdb
+C:\Users\rosan\OneDrive\Área de Trabalho\Developer\Avanade.cs\obj\Debug\net8.0\Avanade.genruntimeconfig.cache
+C:\Users\rosan\OneDrive\Área de Trabalho\Developer\Avanade.cs\obj\Debug\net8.0\ref\Avanade.dll
