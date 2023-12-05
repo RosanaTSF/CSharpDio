@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rosan\\OneDrive\\Área de Trabalho\\Developer\\Avanade.cs\\Avanade.csproj": {}
+    "C:\\Users\\rosan\\OneDrive\\Área de Trabalho\\Developer\\CLab\\Avanade.cs\\Avanade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rosan\\OneDrive\\Área de Trabalho\\Developer\\Avanade.cs\\Avanade.csproj": {
+    "C:\\Users\\rosan\\OneDrive\\Área de Trabalho\\Developer\\CLab\\Avanade.cs\\Avanade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rosan\\OneDrive\\Área de Trabalho\\Developer\\Avanade.cs\\Avanade.csproj",
+        "projectUniqueName": "C:\\Users\\rosan\\OneDrive\\Área de Trabalho\\Developer\\CLab\\Avanade.cs\\Avanade.csproj",
         "projectName": "Avanade",
-        "projectPath": "C:\\Users\\rosan\\OneDrive\\Área de Trabalho\\Developer\\Avanade.cs\\Avanade.csproj",
+        "projectPath": "C:\\Users\\rosan\\OneDrive\\Área de Trabalho\\Developer\\CLab\\Avanade.cs\\Avanade.csproj",
         "packagesPath": "C:\\Users\\rosan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rosan\\OneDrive\\Área de Trabalho\\Developer\\Avanade.cs\\obj\\",
+        "outputPath": "C:\\Users\\rosan\\OneDrive\\Área de Trabalho\\Developer\\CLab\\Avanade.cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rosan\\AppData\\Roaming\\NuGet\\NuGet.Config"

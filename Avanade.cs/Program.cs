@@ -1,13 +1,39 @@
 ﻿using Avanade.cs.Design;
 
+Calculadora c = new Calculadora();
+c.Somar(1, 1);
+c.Subtrair(1, 1);
+c.Multiplicar(1, 1);
+c.Dividir(1, 1);
+c.Porcentagem(1, 1);
+c.Potencia(2, 2);
+c.Seno(30);
+c.Coseno(30);
+c.Tangente(30);
+c.RaizQuadrada(9);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*Stylist s = new Stylist();
 s.Nome = "Pen";
 s.Idade = 3;
-s.Apresentar(); */
+s.Apresentar();
 
-/*DateTime dataAtual = DateTime.Now.AddMinutes(1000);
+DateTime dataAtual = DateTime.Now.AddMinutes(1000);
 Console.WriteLine(dataAtual);
-Console.WriteLine(dataAtual.ToString("dd/MM/yy HH:mm")); */
+Console.WriteLine(dataAtual.ToString("dd/MM/yy HH:mm")); 
 
 int a = Convert.ToInt32(null);
 int b = int.Parse("0"); //o parse n aceita null, dará erro.
@@ -18,13 +44,13 @@ double d = c; //double aceita int e convert, acontece um casting implícito.
 int e = 6;
 long f = e; /*long cabe int, casting implícito, mas long n suporta int.
 
-/*Teria que converter e específicar ou especificar o tam do long para MaxValue (tam maximo do int) que converte, casting implícito: */
+Teria que converter e específicar ou especificar o tam do long para MaxValue (tam maximo do int) que converte, casting implícito: 
 int g = int.MaxValue;
 long h = Convert.ToInt32(g);
 
-/*Usando o convert: 
+Usando o convert: 
 long g = long.MaxValue; Long tbm n poderia ser acima do valor suportado por int(32) abaixo:
-int h = Convert.ToInt32(h); daria erro.*/
+int h = Convert.ToInt32(h); daria erro.
 
 int inteiro = 10;
 string i = inteiro.ToString(); //string não aceita parse, nem precisa do convert. 
@@ -46,6 +72,6 @@ Console.WriteLine(i);
 Console.WriteLine(jota);
 Console.WriteLine("Lol");
 Console.WriteLine(amanha);
-Console.WriteLine(geek);
+Console.WriteLine(geek);*/
 
 
